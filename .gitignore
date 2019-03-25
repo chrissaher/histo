@@ -1,3 +1,5 @@
-./annotations_full
-./train_full
-./others
+annotations_full/
+train_full/
+others/
+.ipynb_checkpoints/
+data/
